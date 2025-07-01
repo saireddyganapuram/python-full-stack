@@ -4,4 +4,4 @@ for i in range(len(a)):
     if(a[i] > max):
         sec=max
         max = a[i]
-print("maximum value is", sec)
+print("second maximum value is", sec)
